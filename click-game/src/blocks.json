@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "style": {
+      "backgroundColor": "palegoldenrod",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "style": {
+      "backgroundColor": "mediumseagreen",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "style": {
+      "backgroundColor": "lightblue",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 4,
+    "name": "SpongeBob",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "style": {
+      "backgroundColor": "pink",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mr. Krabs",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "style": {
+      "backgroundColor": "orange",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Squidward",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "style": {
+      "backgroundColor": "red",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 7,
+    "name": "SpongeBob",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "style": {
+      "backgroundColor": "royalblue",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mr. Krabs",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "style": {
+      "backgroundColor": "lightgreen",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Squidward",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "style": {
+      "backgroundColor": "darkorchid",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 10,
+    "name": "SpongeBob",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
+    "style": {
+      "backgroundColor": "grey",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Mr. Krabs",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "style": {
+      "backgroundColor": "palevioletred",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Squidward",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "style": {
+      "backgroundColor": "yellow",
+      "backgroundImage": "url(\"https://i.pinimg.com/originals/ce/76/97/ce7697f4a359b8c2768074cdf24b4cd6.gif\")",
+      "backgroundSize": "cover"
+    }
+  }
+]

@@ -30,3 +30,29 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+  margin-bottom: 33px;
+}
+
+.cardContainer{
+  margin-top: 33px;
+  width: 900px;
+  display:flex;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: space-between;
+}
+
+.navbar{
+  margin-bottom: 33px;
+  background-color: lavender;
+  text-align: center;
+}
+
+h3{
+  margin: auto;
+}
